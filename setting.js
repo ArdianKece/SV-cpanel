@@ -25,23 +25,23 @@ const chalk = require('chalk')
 global.baileys = require('@whiskeysockets/baileys')
 global.usePairingCode = true
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'REREZZ HOSTING' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.owner = ['6285216955233'] // ubah aja pake nomor lu
-global.botname = 'IZANAMI - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'ARDIAN HOSTING' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.owner = ['628386413714'] // ubah aja pake nomor lu
+global.botname = 'KOTORI - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'Rezz session' //Gausah Juga
 global.idchannel = '120363289337334615@newsletter'
-global.linkgc = 'https://whatsapp.com/channel/0029Vacg4bA17Emy2r4cgc0M'
+global.linkgc = 'https://chat.whatsapp.com/FTU58xB73flCIDBBtD5vww'
 global.thumbnail = 'https://telegra.ph/file/24b24857cf823991a2c5f.jpg'
-global.foter1 = 'IZANAMI - MD'
-global.foter2 = 'IZABAMI - MD BY REREZ'
+global.foter1 = 'KOTORI - MD'
+global.foter2 = 'KOTORI - MD BY ARDIAN'
 global.autobio = false // AutoBio
 global.autoread = false // ReadChat 
 global.Ghost = '`'
-global.packname = 'IZANAMI'
-global.author = 'REREZ HOST'
-global.skizo = "REZZ HOST"
-global.wm = "REREZ HOSTING"
+global.packname = 'KOTORI'
+global.author = 'ARDIAN HOST'
+global.skizo = "ARDIAN HOST"
+global.wm = "ARDIAN HOSTING"
 //=================================================//
 global.onlypc = false
 global.onlygc = false
@@ -54,10 +54,10 @@ global.egg = "15"
 global.loc = "1"
 
 //Send Pay
-global.dana = "-"
+global.dana = "0815-3520-8853"
 global.ovo = "-"
 global.gopay = "-"
-global.qris = "https://telegra.ph/file/e30b7d90487c97a366534.jpg"
+global.qris = "-"
 
 //limit & balance
 global.limitawal = 10
